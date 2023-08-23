@@ -1,0 +1,2 @@
+# ros_matlab_pointcloud_test
+ROS ToolboxでPointcloud2のメッセージを作るときに使用する雛形
